@@ -1,0 +1,29 @@
+{
+    "user": "sooch@microsoft.com",
+    "workouts": [
+       {
+          "date": "2017-05-22",
+          "type": "run",
+          "distanceInMiles": 3.73,
+          "time": "31:21",
+          "energyInCalories": 533,
+          "elevationInFeet": 119
+       },
+       {
+          "date": "2017-05-24",
+          "type": "run",
+          "distanceInMiles": 3.74,
+          "time": "32:05",
+          "energyInCalories": 529,
+          "elevationInFeet": 121
+       },
+       {
+          "date": "2017-05-27",
+          "type": "run",
+          "distanceInMiles": 3.73,
+          "time": "31:12",
+          "energyInCalories": 534,
+          "elevationInFeet": 118
+       }
+    ]
+ }
