@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Big Corporation",
+        "numberOfEmployees": 10000,
+        "ceo" : "soohyung",
+        "rating" : 4.9
+    },
+    {
+        "name": "Small Statrup",
+        "numberOfEmployees": 3,
+        "ceo" : null,
+        "rating" : 4.3
+     }
+]
